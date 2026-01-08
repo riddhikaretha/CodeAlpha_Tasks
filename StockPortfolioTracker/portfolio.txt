@@ -1,0 +1,6 @@
+Stock Portfolio Summary
+Generated on: 07-01-2026 16:49:54
+----------------------------------------
+MSFT | Price: ₹320 | Qty: 900 | Value: ₹288000
+----------------------------------------
+Total Investment: ₹288000
